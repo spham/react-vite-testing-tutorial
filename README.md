@@ -48,8 +48,6 @@ Before getting started, ensure you have the following installed:
    cd react-vitest-testing-tutorial
    ```
 
-````
-
 2. **Install Dependencies:**
 
    Using npm:
@@ -404,5 +402,3 @@ This project is licensed under the [MIT License](LICENSE).
 Happy Testing! 🚀
 
 For more tutorials and updates, visit my [YouTube channel Pedrotechnologies](https://www.youtube.com/@pedrotechnologies).
-
-````
