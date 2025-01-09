@@ -393,12 +393,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 5. **Open a Pull Request**
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
-
-Happy Testing! 🚀
 
 For more tutorials and updates, visit my [YouTube channel Pedrotechnologies](https://www.youtube.com/@pedrotechnologies).
