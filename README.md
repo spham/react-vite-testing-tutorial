@@ -2,7 +2,7 @@
 
 - https://www.youtube.com/watch?v=CxSL0knFxAs
 
-- [![Regarder la vidéo](https://img.youtube.com/vi/CxSL0knFxAs/0.jpg)](https://www.youtube.com/watch?v=CxSL0knFxAs)
+[![Regarder la vidéo](https://img.youtube.com/vi/CxSL0knFxAs/0.jpg)](https://www.youtube.com/watch?v=CxSL0knFxAs)
 
 
 ## Overview
