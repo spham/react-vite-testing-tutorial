@@ -1,5 +1,7 @@
 # Testing in React with Vitest and React Testing Library
 
+- https://www.youtube.com/watch?v=CxSL0knFxAs
+
 ## Overview
 
 Welcome to the **Testing in React with Vitest and React Testing Library** project! This repository accompanies a comprehensive tutorial that guides you through setting up and writing effective tests for your React applications using **Vitest** and **React Testing Library**. Whether you're a beginner or an experienced developer, this project will help you ensure your React components are robust, maintainable, and bug-free.
